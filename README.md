@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dreinale
+- 👋 Hi, I’m @Dreinale and i got 23 years old
 - 👀 I’m interested in AI & robotic
 - 🌱 I’m currently learning C++ & Arduino
-- 💞️ I’m looking to collaborate on AI project
+- 💞️ I’m looking to collaborate on AI project or BIG arduino project
 - 📫 How to reach me send me an email -> enzo.brunet@epitech.eu
 
 <!---
