@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnzoBrunet
+- 👋 Hi, I’m @Dreinale
 - 👀 I’m interested in AI & robotic
 - 🌱 I’m currently learning C++ & Arduino
 - 💞️ I’m looking to collaborate on AI project
