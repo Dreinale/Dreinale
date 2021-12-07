@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dreinale and i got 23 years old
-- 👀 I’m interested in robotic & augmented reality
+- 👀 I’m interested in robotic / IOT & augmented reality
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on AI project or glass with augmented reality project
 - 📫 How to reach me send me an email -> enzo.brunet@epitech.eu
