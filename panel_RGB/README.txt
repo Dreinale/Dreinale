@@ -37,3 +37,19 @@ $ make led-image-viewer
 download a gif / png / jpg / ... 
 and run it 
 $ sudo ./led-image-viewer image.gif --led-no-hardware-pulse
+
+
+                ##--For Scrooltext--##
+
+-s = speed/sec of letters
+-B = color background && -C = color letters
+-t = spacing between letters
+
+Big letter (bold) right to the left
+$ sudo ./text-scroller -f ../fonts/texgyre-27.bdf -s1 -y-9 "text"
+
+Big letter without bold right to the left
+$ sudo ./text-scroller -f ../fonts/clR6x12n.bdf -s1 -y9 "text"
+
+Small letter without bold right to the left
+$ sudo ./text-scroller -f ../fonts/tom-thumb.bdf -s1 -y9 "text"
