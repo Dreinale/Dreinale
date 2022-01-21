@@ -3,7 +3,8 @@ Feather RP2040 -> Chip Raspberry (~/product/4884)
 Teensy 3.5 -> (pjrc.com/store/teensy35.html)
 Arduino Uno -> (https://www.adafruit.com/product/4806)
 
-
+![2015-09-20 17 02 28](https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png)
+        
 ->tensy 3.5 need a special shield (https://www.kiwi-electronics.nl/nl/smartmatrix-smartled-shield-v4-for-teensy-3-3684?language=nl-nl&currency=EUR&gclid=Cj0KCQiAw9qOBhC-ARIsAG-rdn4PhR1jbxAXTySfY5SoK2ZjoaQQWiv-fczCIP4G1d6s58h_MzMQTZkaArwGEALw_wcB)
 
 ->Arduino Uno is limited to 32x16 pixels: single-buffered
