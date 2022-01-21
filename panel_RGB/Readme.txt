@@ -2,7 +2,7 @@ MCP9808 QT -> Temperature sensor wicth I2C (www.adafruit.com/product/1782)
 Feather RP2040 -> Chip Raspberry (~/product/4884)
 Teensy 3.5 -> (pjrc.com/store/teensy35.html)
 Arduino Uno -> (https://www.adafruit.com/product/4806)
-<a href="arduino-uno/">< src="Dreinale/Dreinale/tree/main/panel_RGB/arduino-uno.jpg" width="300px"></a>
+<a><img src="Dreinale/Dreinale/tree/main/panel_RGB/arduino-uno.jpg"></a>
 
 Rasberry Pi -> (https://www.adafruit.com/product/1914)
 
