@@ -3,6 +3,7 @@ Feather RP2040 -> Chip Raspberry (~/product/4884)
 Teensy 3.5 -> (pjrc.com/store/teensy35.html)
 Arduino Uno -> (https://www.adafruit.com/product/4806)
 <a><img src="arduino-uno.jpg"></a>
+![alt text](http://https://cdn-shop.adafruit.com/970x728/1914-01.jpg)
 
 Rasberry Pi -> (https://www.adafruit.com/product/1914)
 
