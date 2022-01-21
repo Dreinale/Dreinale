@@ -41,6 +41,15 @@ $ sudo ./led-image-viewer image.gif --led-no-hardware-pulse
 
                 ##--For Scrooltext--##
 
+Use nano/emacs or use a text editor on text-scroller.cc 
+line 85 we have : RGBMatrix::Options matrix_options;
+we want to change the default hardware_mapping
+
+So after this line write: matrix_options.hardware_mapping = "adafruit_hat";
+save this and build it with the makefile
+$ make text-scroller
+
+
 -s = speed/sec of letters
 -B = color background && -C = color letters
 -t = spacing between letters
