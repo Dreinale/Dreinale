@@ -67,3 +67,9 @@ $ sudo ./text-scroller -f ../fonts/clR6x12n.bdf -s1 -y9 "text"
 
 Small letter without bold right to the left
 $ sudo ./text-scroller -f ../fonts/tom-thumb.bdf -s1 -y9 "text"
+
+
+                ##--For StarWars--##
+
+Draw text on the pannel -> rgb_matrix::DrawText();
+
