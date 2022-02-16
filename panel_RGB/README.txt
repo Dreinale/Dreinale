@@ -73,3 +73,6 @@ $ sudo ./text-scroller -f ../fonts/tom-thumb.bdf -s1 -y9 "text"
 
 Draw text on the pannel -> rgb_matrix::DrawText();
 
+TODO:
+    -doc for new users (quescequ'il a besoin, ce que j'utilise)
+    -search packaging windows from linux (VM - wine)
