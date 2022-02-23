@@ -89,6 +89,3 @@ Get the legnth of the text ->   "```code
 
 
 Just use utils folder and we need include, lib & fonts folders
-
-TODO:
-    -search packaging windows from linux (VM - wine)
