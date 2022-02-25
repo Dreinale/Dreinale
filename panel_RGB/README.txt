@@ -73,6 +73,19 @@ $ sudo ./text-scroller -f ../fonts/tom-thumb.bdf -s1 -y9 "text"
 
 Draw text on the pannel -> rgb_matrix::DrawText();
 
-TODO:
-    -doc for new users (quescequ'il a besoin, ce que j'utilise)
-    -search packaging windows from linux (VM - wine)
+For the direction text ->    "```code
+                            x += scroll_direction;
+                            if ((scroll_direction < 0 && x + length < 0) ||
+                                (scroll_direction > 0 && x > canvas->width())) {
+                            x = x_orig + ((scroll_direction > 0) ? -length : 0);
+                            if (loops > 0) --loops;
+                            }"
+
+Get the legnth of the text ->   "```code
+                                length = rgb_matrix::DrawText(offscreen_canvas, font,
+                                    x, y + font.baseline(),
+                                    color, NULL,
+                                    line.c_str(), letter_spacing);"
+
+
+Just use utils folder and we need include, lib & fonts folders
