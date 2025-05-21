@@ -28,32 +28,32 @@
 
 ### 🚀 Technologies & Tools
 
-<p align=\"center\">
-  <img src=\"https://skillicons.dev/icons?i=cpp,nodejs,arduino,raspberrypi,git,github,docker,vscode\" alt=\"skills\"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,arduino,raspberrypi,git,github,docker,vscode" alt="skills"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align=\"center\">
-  <img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=Dreinale&show_icons=true&theme=radical&hide_border=true\" alt=\"Dreinale stats\" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreinale&show_icons=true&theme=radical&hide_border=true" alt="Dreinale stats" />
 </p>
 
 ---
 
 ### 🛠️ Currently Building
 
-<p align=\"center\">
-  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=Dreinale&theme=radical&hide_border=true\" alt=\"GitHub Streak\"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreinale&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<h3 align=\"center\">Let's connect and build the future together!</h3>
+<h3 align="center">Let's connect and build the future together!</h3>
 
-<p align=\"center\">
-  <a href=\"https://github.com/Dreinale\">
-    <img src=\"https://img.shields.io/github/followers/Dreinale?label=Follow&style=social\" alt=\"GitHub Follow\">
+<p align="center">
+  <a href="https://github.com/Dreinale">
+    <img src="https://img.shields.io/github/followers/Dreinale?label=Follow&style=social" alt="GitHub Follow">
   </a>
 </p>
