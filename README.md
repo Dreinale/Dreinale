@@ -1,9 +1,7 @@
 <h1 align=\"center\">Hi 👋, I'm Dreinale (Enzo)</h1>
 <h3 align=\"center\">💻 Software Engineer | 🤖 Robotic & IoT Enthusiast</h3>
 
-<p align=\"center\">
-  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FB6F7&center=true&vCenter=true&width=435&lines=Robotic+Developer+🚀;IoT+Specialist+⚡;C+++%7C+Node.js+💻;Always+Learning+🔥\" alt=\"Typing SVG\" />
-</p>
+
 
 ---
 
@@ -30,22 +28,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,nodejs,arduino,raspberrypi,git,github,docker,vscode" alt="skills"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreinale&show_icons=true&theme=radical&hide_border=true" alt="Dreinale stats" />
-</p>
-
----
-
-### 🛠️ Currently Building
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreinale&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
